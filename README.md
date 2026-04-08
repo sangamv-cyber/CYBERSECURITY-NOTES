@@ -27,3 +27,17 @@ Tomorrow I’ll be back with learning and progress updates 📚
 📌 Staying committed to my goal: building a strong career in Cyber Security & AI/ML
 
 #Day2 #Consistency #Discipline #LearningJourney #CyberSecurity #AI #KeepGoing
+📅 Day 3 of My Tech Journey
+
+Today I started learning Data Structures 💻
+
+I understood the basics like:
+• What is a data structure
+• Why it is important in programming
+• Types of data structures (Linear & Non-linear)
+
+I realized that data structures help in organizing data efficiently and are very important for problem solving and coding interviews.
+
+I’m just getting started, but I’m excited to learn more every day 🚀
+
+#DataStructures #CodingJourney #BCA #LearningInPublic #TechSkills
